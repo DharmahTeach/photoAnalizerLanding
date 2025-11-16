@@ -1,6 +1,0 @@
-# Игнорируем только служебные файлы, если они появятся
-.DS_Store
-Thumbs.db
-DEPLOY.md
-README.md
-
