@@ -1,0 +1,10 @@
+# Игнорируем только служебные файлы
+.DS_Store
+Thumbs.db
+
+# НЕ игнорируем собранные файлы - они нужны для GitHub Pages
+# !index.html
+# !assets/
+# !images/
+# !robots.txt
+# !sitemap.xml
