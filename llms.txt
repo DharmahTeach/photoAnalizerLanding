@@ -1,0 +1,36 @@
+# Body Metrics
+
+> Telegram-бот анализа фигуры по двум фото: ориентировочный % жира, осанка, пропорции. Не медицинский диагноз.
+
+Сайт: https://photo.fitness-ai.ru/
+Бот: https://t.me/BodyMetrics_bot
+Связанный продукт: FitnessAI — https://fitness-ai.ru/ (@FitnessPlusAI_Bot)
+Язык: русский
+
+## Что делает
+
+- Разбор по фото спереди и сбоку в полный рост
+- Сравнение «до/после»
+- Передача метрик в FitnessAI для плана тренировок (единый Premium)
+- Приватный разбор без записи в обычную историю отчётов
+
+## Тарифы (RUB)
+
+- Бесплатно: 3 анализа
+- Месяц: 300
+- Год: 3 000
+- Навсегда: 10 000
+
+## Статьи
+
+- https://photo.fitness-ai.ru/articles/somatotype-ai-analysis/
+- https://photo.fitness-ai.ru/articles/before-after-progress-tracking/
+- https://photo.fitness-ai.ru/articles/ai-coach-psychological-comfort/
+- https://photo.fitness-ai.ru/articles/private-photo-analysis-security/
+
+## Контакты
+
+- support@fitness-ai.ru
+- https://t.me/FitnessPlusAI_support_bot
+- Политика: https://photo.fitness-ai.ru/privacy.html
+- Условия: https://photo.fitness-ai.ru/terms.html
