@@ -118,11 +118,11 @@
   style.textContent =
     '#bm-cookie{position:fixed;left:0;right:0;bottom:0;z-index:80;background:linear-gradient(90deg,#4338ca,#7c3aed);border-top:4px solid #facc15;box-shadow:0 -10px 40px rgba(67,56,202,.45)}' +
     '.bm-cookie-card{max-width:1040px;margin:0 auto;padding:18px 22px;display:flex;gap:20px;align-items:center;justify-content:space-between;flex-wrap:wrap;color:#fff}' +
-    '.bm-cookie-card p{margin:0;font:16px/1.4 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;max-width:620px}' +
-    '.bm-cookie-card a{color:#fde68a;font-weight:700}' +
+    '#bm-cookie p,#bm-cookie strong{margin:0;color:#fff !important;-webkit-text-fill-color:#fff;font:16px/1.4 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;max-width:620px}' +
+    '#bm-cookie a{color:#fde68a !important;-webkit-text-fill-color:#fde68a;font-weight:700}' +
     '.bm-cookie-actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}' +
-    '.bm-cookie-ok{background:#facc15;color:#1e1b4b;border:0;border-radius:12px;padding:14px 32px;font:800 17px/1 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;cursor:pointer;box-shadow:0 8px 18px rgba(250,204,21,.45)}' +
-    '.bm-cookie-no{background:transparent;color:rgba(255,255,255,.8);border:0;padding:10px 4px;font:600 13px/1 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;cursor:pointer;text-decoration:underline}' +
+    '#bm-cookie .bm-cookie-ok{background:#facc15 !important;color:#1e1b4b !important;-webkit-text-fill-color:#1e1b4b;border:0;border-radius:12px;padding:14px 32px;font:800 17px/1 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;cursor:pointer;box-shadow:0 8px 18px rgba(250,204,21,.45)}' +
+    '#bm-cookie .bm-cookie-no{background:transparent !important;color:#fff !important;-webkit-text-fill-color:#fff;border:0;padding:10px 4px;font:600 13px/1 Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;cursor:pointer;text-decoration:underline}' +
     '@media(max-width:640px){.bm-cookie-card{align-items:stretch;padding:16px}.bm-cookie-actions{width:100%;flex-direction:column;align-items:stretch}.bm-cookie-ok{width:100%;padding:16px}}';
   document.head.appendChild(style);
 
